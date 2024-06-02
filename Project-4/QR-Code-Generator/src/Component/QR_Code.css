@@ -1,0 +1,42 @@
+.Content {
+  padding: 40px;
+
+  background-color: plum;
+}
+.Content h2 {
+  padding: 10px;
+}
+.Field {
+  padding: 30px;
+}
+.Field input {
+  background-color: white;
+  color: black;
+
+  font-size: 15px;
+
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  padding-left: 5px;
+
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border: 1px solid;
+  border-radius: 6px;
+}
+.Field button {
+  background-color: white;
+  color: black;
+
+  border-radius: 1px solid;
+
+  margin-top: 2px;
+
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.QR {
+  padding-top: 10px;
+}

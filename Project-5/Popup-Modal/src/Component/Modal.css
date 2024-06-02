@@ -1,0 +1,45 @@
+body {
+  background-color: tomato;
+
+  font-family: system-ui;
+}
+.Main-1 button {
+  background-color: tomato;
+
+  padding: 10px;
+
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+
+  border: 1px solid;
+
+  cursor: pointer;
+}
+.Main-1 button:hover {
+  opacity: 0.8;
+}
+.Main-1 button:active {
+  opacity: 0.5;
+}
+.Main {
+  position: fixed;
+  left: 500px;
+  width: 550px;
+  margin-top: 50px;
+  border: 1px solid;
+}
+.Header {
+  border-bottom: 1px solid;
+}
+.Body {
+  padding: 30px;
+
+  border-bottom: 1px solid;
+}
+.Footer {
+  padding: 30px;
+}
+.Footer button {
+  margin-right: 10px;
+}

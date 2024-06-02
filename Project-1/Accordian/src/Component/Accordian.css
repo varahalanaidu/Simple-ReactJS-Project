@@ -1,0 +1,46 @@
+body {
+  font-family: system-ui;
+}
+.Header {
+  width: 500px;
+
+  padding: 100px;
+  margin: 50px;
+
+  letter-spacing: 1px;
+  font-size: 18px;
+  background-color: yellow;
+}
+.Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Main {
+  width: 600px;
+}
+
+.Item {
+  background-color: yellow;
+
+  margin-bottom: 20px;
+}
+.Title {
+  padding-left: 25px;
+  padding-right: 25px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Title span {
+  font-size: 20px;
+
+  font-weight: bold;
+  cursor: pointer;
+}
+.Content {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
